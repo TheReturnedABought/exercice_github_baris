@@ -1,2 +1,2 @@
 # exercice_github
-ceci est un mauvais pratique
+ceci est une bonne pratique
